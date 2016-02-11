@@ -1,0 +1,29 @@
+_repo: Katsokaa-peiliin-Yksinaytoksinen-huvinaytelma_49959
+contributor:
+  adapter:
+    agent_name: Heiberg, J. L. (Johan Ludvig)
+    alias: Heiberg, Johan Ludvig
+    birthdate: 1791
+    deathdate: 1860
+    gutenberg_agent_id: '37463'
+    url: http://www.gutenberg.org/2009/agents/37463
+  translator:
+    agent_name: Gummerus, K. J. (Kaarle Jaakko)
+    alias: Gummerus, Kaarle Jaakko
+    birthdate: 1840
+    deathdate: 1898
+    gutenberg_agent_id: '5410'
+    url: http://www.gutenberg.org/2009/agents/5410
+description: ''
+gutenberg_issued: '2015-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49959'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Katsokaa peiliin!
+
+  Yksinäytöksinen huvinäytelmä'
+url: http://www.gutenberg.org/ebooks/49959
