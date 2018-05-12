@@ -1,4 +1,5 @@
 _repo: Katsokaa-peiliin-Yksinaytoksinen-huvinaytelma_49959
+_version: 0.1.0
 contributor:
   adapter:
     agent_name: Heiberg, J. L. (Johan Ludvig)
@@ -14,7 +15,12 @@ contributor:
     deathdate: 1898
     gutenberg_agent_id: '5410'
     url: http://www.gutenberg.org/2009/agents/5410
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49959#Katsokaa-peiliin-Yksinaytoksinen-huvinaytelma
 gutenberg_issued: '2015-09-14'
 gutenberg_type: Text
 identifiers:
